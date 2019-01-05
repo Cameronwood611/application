@@ -1,0 +1,3 @@
+rootProject.name = 'cover2'
+
+include ':app'
